@@ -23,6 +23,8 @@ export default {
         "/src/assets/firebase.png",
         "/src/assets/realm.png",
         "/src/assets/graphql.png",
+        "/src/assets/github.png",
+        "/src/assets/git.png",
       ],
       cardWidth: 95, // Ширина карточки
       translateX: 0, // Начальное положение
@@ -58,7 +60,7 @@ export default {
 .animation-container {
   overflow: hidden;
   display: flex;
-  margin: 100px;
+  margin-top: 100px;
 }
 
 .card_languages {
